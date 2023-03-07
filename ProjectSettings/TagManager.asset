@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AuxOutput
+  - Aux
+  - AuxInput
+  - AL1
+  - AL2
+  - AL3
+  - AL4
+  - AL5
+  - AL6
+  - AL7
+  - AL8
+  - AL9
+  - GL1
+  - GL2
+  - GL3
+  - GL4
+  - GL5
+  - GL6
+  - GL7
+  - GL8
+  - GL9
+  - UL1
+  - UL2
+  - UL3
+  - UL4
+  - UL5
+  - UL6
+  - UL7
+  - UL8
+  - UL9
+  - FL1
+  - FL2
+  - FL3
+  - FL4
+  - FL5
+  - FL6
+  - FL7
+  - FL8
+  - FL9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
